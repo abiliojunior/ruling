@@ -1,0 +1,20 @@
+{
+    "MODULE.hello": "Ola!",
+    "MODULE.Ruling": "Ruling",
+    "MODULE.SelectTargetNumber": "Selecione uma numero alvo e uma dificuladade.",
+    "MODULE.TargetNumer": "Numero Alvo",
+    "MODULE.RulingDice": "Dado de Ruling",
+    "MODULE.Cancel": "Cancelado",
+    "MODULE.DiceRequest": " Solicitação de jogada de dados.",
+    "MODULE.PleaseRoll": " Por favor rolem",
+    "MODULE.in": "em",
+    "MODULE.RulingResult": "Resultado do Ruling",
+    "MODULE.youWin": "Voce conseguiu",
+    "MODULE.youLose": "Voce NÃO Conseguiu",
+    "MODULE.youShouldRoll": "Devia ter tirado",
+    "MODULE.orLess": "ou menos",
+    "MODULE.TokenWoPlayer": "Token sem Jogador!"
+
+
+
+}

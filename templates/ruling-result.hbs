@@ -1,0 +1,13 @@
+<h3>{{localize "MODULE.RulingResult"}}</h3>
+
+<p>{{localize "MODULE.youWin"}} {{resultado}} {{localize "MODULE.in"}} {{dice}}</p>
+
+{{#if (lte resultado valor)}}
+  <h2 class="result-sucesso">{{localize "MODULE.youWin"}}!!</h2>
+{{else}}
+<div>
+  <h2 class="result-fracasso">{{localize "MODULE.youLose"}}</h2>
+  <h5 class="result-fracasso">{{localize "MODULE.youShouldRoll"}} {{valor}} {{localize "MODULE.orLess"}}</h5>
+</div>
+    
+{{/if}}

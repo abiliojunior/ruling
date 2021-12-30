@@ -1,0 +1,32 @@
+.ruling-chat {
+    
+    text-align: left;
+    
+}
+
+.ruling-chat {
+    
+    text-align: left;
+    
+}
+
+.ruling-chat div{
+    padding: 2px;
+}
+
+#numero-alvo {
+    width: 50px;
+    text-align: center;
+}
+
+.ruling-msg{
+    padding: 5px;
+}
+
+h2.result-sucesso{
+    color: green;
+}
+
+h2.result-fracasso{
+    color: red;
+}

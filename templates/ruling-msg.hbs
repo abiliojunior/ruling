@@ -1,0 +1,11 @@
+<h3>{{localize "MODULE.DiceRequest"}}</h3>
+
+<div class="flexcol">
+{{#each selecionados}}
+   <div><h4>{{name}}</h4></div> 
+{{/each}}
+</div>
+
+{{localize "MODULE.PleaseRoll"}} {{valor}} {{localize "MODULE.in"}} {{dice}}!
+
+<button class= "ruling-msg"> {{localize "MODULE.PleaseRoll"}} {{dice}}! </button>

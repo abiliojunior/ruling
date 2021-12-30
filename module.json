@@ -1,0 +1,46 @@
+{
+  "name": "ruling",
+  "title": "Ruling",
+  "description": "Modulo de Ruling",
+  "version": "0.0.4",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "authors": [
+    {
+      "name": "Abiliojunior",
+      "url": "https://github.com/abiliojunior"
+    }
+  ],
+  "dependencies": [
+
+  ],
+  "conflicts": [
+    
+  ],
+  "esmodules": [
+    "/scripts/module.js"
+  ],
+  "scripts": [
+    "/scripts/lib/lib.js"
+  ],
+  "styles": [
+    "/styles/module.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português",
+      "path": "languages/pt-BR.json"
+    }
+  ],
+  "url": "https://github.com/abiliojunior/ruling",
+  "manifest": "https://github.com/abiliojunior/ruling/releases/latest/download/module.json",
+  "download": "https://github.com/abiliojunior/ruling/releases/latest/download/ruling.zip"
+}

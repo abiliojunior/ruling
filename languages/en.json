@@ -1,0 +1,18 @@
+{
+    "MODULE.hello": "Hello!",
+    "MODULE.Ruling": "Ruling",
+    "MODULE.SelectTargetNumber": "Select a target number and a difficulty.",
+    "MODULE.TargetNumer": "Target Number",
+    "MODULE.RulingDice": "Ruling Dice",
+    "MODULE.Cancel": "Cancelled",
+    "MODULE.DiceRequest": "Dice roll request.",
+    "MODULE.PleaseRoll": "Please roll",
+    "MODULE.in": "in",
+    "MODULE.RulingResult": "Ruling Result.",
+    "MODULE.youWin": "You did",
+    "MODULE.youLose": "You didn't",
+    "MODULE.youShouldRoll": "Should have taken",
+    "MODULE.orLess": "or less",
+    "MODULE.TokenWoPlayer": "Token without Player!"
+
+}
