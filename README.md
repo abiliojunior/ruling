@@ -1,5 +1,7 @@
 ![](https://img.shields.io/badge/Foundry-v0.8.6-informational)
-<!--- Downloads @ Latest Badge -->
+![](https://img.shields.io/github/downloads/abiliojunior/ruling/total)
+
+
 <!--- replace <user>/<repo> with your username/repository -->
 <!--- ![Latest Release Download Count](https://img.shields.io/github/downloads/<user>/<repo>/latest/module.zip) -->
 
@@ -10,9 +12,6 @@
 # FoundryVTT Module - Ruling
 
 Rulings Not Rules!
-
-[[_TOC_]]
-
 
 ## Installation / Intalação
 
