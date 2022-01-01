@@ -42,7 +42,7 @@ Hooks.on("renderSceneControls", (controls, html) => {
 
 
     olscene.append(
-      `<li class="scene-control active ruling-icon-button"  title="Ruling">
+      `<li class="scene-control ruling-icon-button"  title="Ruling">
       <i class="fas fa-dice-six"></i></li>`
     );
 

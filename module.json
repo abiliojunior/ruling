@@ -2,11 +2,11 @@
   "name": "ruling",
   "title": "Ruling",
   "description": "Modulo de Ruling",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "minimumCoreVersion": "0.9",
+  "compatibleCoreVersion": "0.9",
   "authors": [
     {
       "name": "Abiliojunior",

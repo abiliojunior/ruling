@@ -34,10 +34,10 @@ O modulo permite que o Mestre selecione uma quantidade qualquer de tokens e depo
 ![Preview](./UseExample.gif?raw=true)
 
 
-## Installation / Intalação
+## Installation / Instalação
 
 1. Inside Foundry, select the Game Modules tab in the Configuration and Setup menu.
-2. Click the Install Module button and enter the following URL:
+2. Click the Install Module button and enter the following URL: https://github.com/abiliojunior/ruling/releases/latest/download/module.json
 3. Click Install and wait for installation to complete.
 
 ### pt-BR
@@ -47,5 +47,7 @@ O modulo permite que o Mestre selecione uma quantidade qualquer de tokens e depo
 
 ## Changelog
 
+### V0.0.5: 
+- Fix: fix css issues and read.me spelling.
 ### V0.0.4: 
-- Versão inicial.
+- Initial version.
